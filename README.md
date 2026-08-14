@@ -1,2 +1,2 @@
 # Shop
-AsthaMart
+AsthaLife
